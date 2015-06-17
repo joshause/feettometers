@@ -1,4 +1,4 @@
-// feettometers.js v1.0.0
+// feettometers.js v1.0.1
 
 (function() {
 
