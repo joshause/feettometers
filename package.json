@@ -1,7 +1,7 @@
 {
-  "name": "feettometers.js",
+  "name": "feet-to-meters",
   "title": "feettometers.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts feet to meters",
   "devDependencies": {
     "jasmine": "latest"
@@ -13,6 +13,7 @@
   "keywords": [
     "feet to meters",
     "feettometers",
+    "feet-to-meters",
     "feettometers.js",
     "foot to meter",
     "joshause"
