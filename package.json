@@ -2,14 +2,12 @@
   "name": "feet-to-meters",
   "title": "feettometers.js",
   "version": "1.0.2",
+  "main": "feettometers.js",
   "description": "Converts feet to meters",
   "devDependencies": {
     "jasmine": "latest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/joshause/feettometers.js.git"
-  },
+  "repository": "joshause/feettometers",
   "keywords": [
     "feet to meters",
     "feettometers",
@@ -25,11 +23,8 @@
   "scripts": {
     "test": "jasmine tests/*.js"
   },
-  "licenses": [{
-            "type": "MIT",
-            "url": "http://www.opensource.org/licenses/MIT"
-        }],
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joshause/feettometers.js/issues"
+    "url": "https://github.com/joshause/feettometers/issues"
   }
 }

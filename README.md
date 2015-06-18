@@ -10,7 +10,7 @@ JavaScript conversion of feet to meters.
 ### Node.js
 
 ```js
-var FeetToMeters = require("./feettometers");
+var FeetToMeters = require("feettometers");
 var ftm = new FeetToMeters();
 ftm.get(1);
 // => 0.3048
