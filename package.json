@@ -1,7 +1,7 @@
 {
   "name": "feet-to-meters",
   "title": "feettometers.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "feettometers.js",
   "description": "Converts feet to meters",
   "devDependencies": {

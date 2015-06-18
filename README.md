@@ -5,6 +5,12 @@ JavaScript conversion of feet to meters.
 [![Build Status](https://travis-ci.org/joshause/feettometers.svg?branch=master)](https://travis-ci.org/joshause/feettometers)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
+## Install
+
+```
+$ npm install feet-to-meters
+```
+
 ## Usage
 
 ### Node.js
