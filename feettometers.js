@@ -22,4 +22,4 @@
     window.FeetToMeters = FeetToMeters;
   }
 
-})();
+}());
