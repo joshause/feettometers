@@ -1,18 +1,18 @@
 (function() {
 
-  'use strict';
+  "use strict";
 
-  var FeetToMeters = require('../feettometers.js');
+  var FeetToMeters = require("../feettometers.js");
 
-  describe('feettometers.js', function() {
+  describe("feettometers.js", function() {
 
-    it('is a thing', function() {
+    it("is a thing", function() {
       expect(FeetToMeters).toBeDefined();
     });
 
-    describe('.get()', function() {
+    describe(".get()", function() {
 
-      it('returns number of meters for number of feet given', function() {
+      it("returns number of meters for number of feet given", function() {
 
         var ftm = new FeetToMeters();
         var input = 1;
